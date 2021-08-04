@@ -1,2 +1,2 @@
-# stock-data-api
-get stock data 
+# NodeJs
+Get stock data from Yahoo! Finance.
